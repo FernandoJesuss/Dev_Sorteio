@@ -20,7 +20,7 @@ body {
 img {
     display: block;
     margin: 0 auto;
-    /* padding: 1rem; */
+    padding: 2rem;
     filter: drop-shadow(5px 5px 5px);
 }
 
@@ -31,7 +31,7 @@ h1 {
     justify-content: center;
     position: relative;
     font-size: 3rem;
-    padding: 3rem;
+    padding: 1.5rem;
     text-shadow: 2px 2px 4px black;
 
 }
@@ -67,7 +67,7 @@ h1 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
 .sorte {
@@ -82,7 +82,7 @@ h1 {
     align-items: center;
     font-weight: 800;
     font-size: 50px;
-    margin-top: 150px;
+    margin-top: 110px;
     filter: drop-shadow(5px 5px 5px);
 
 }
@@ -98,8 +98,7 @@ button:active {
 
 }
 
-
-button::before{
+button::before {
     content: '';
     position: absolute;
     top: 0;
@@ -112,19 +111,54 @@ button::before{
     border-radius: 14px;
 }
 
+/*Resultado*/
+
+.result-container {
+    text-align: center;
+    margin-top: 20px;
+    display: contents;
+}
+
+.result {
+    font-size: 34px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @keyframes cobrinha {
     0% {
         clip-path: polygon(0% 0%, 0% 0%, 0% 100%, 0% 100%);
     }
+
     25% {
         clip-path: polygon(0% 0%, 100% 0%, 100% 0%, 0% 100%);
     }
+
     50% {
         clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 100% 100%);
     }
+
     75% {
         clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
     }
+
     100% {
         clip-path: polygon(0% 0%, 0% 0%, 0% 100%, 0% 100%);
     }
