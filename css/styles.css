@@ -84,7 +84,7 @@ h1 {
     font-size: 50px;
     margin-top: 110px;
     filter: drop-shadow(5px 5px 5px);
-
+    cursor: pointer;
 }
 
 button:hover {
@@ -126,22 +126,6 @@ button::before {
     margin-top: 30px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @keyframes cobrinha {
     0% {
         clip-path: polygon(0% 0%, 0% 0%, 0% 100%, 0% 100%);
@@ -162,4 +146,352 @@ button::before {
     100% {
         clip-path: polygon(0% 0%, 0% 0%, 0% 100%, 0% 100%);
     }
+}
+
+/*Responsivo*/
+
+@media screen and (max-width: 600px) {
+    img {
+        width: 25rem;
+        display: block;
+        margin: 0 auto;
+        padding: 2rem;
+        margin-top: 100px;
+        filter: drop-shadow(5px 5px 5px);
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+
+    }
+
+    h1 {
+        display: flex;
+        color: #fff;
+        font-weight: 500;
+        justify-content: center;
+        font-size: 25px;
+        text-shadow: 2px 2px 4px black;
+        transform: translateY(450px);
+        margin-top: -8rem;
+
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
+        filter: drop-shadow(5px 5px 5px);
+    }
+
+    .inputs {
+        display: flex;
+        gap: 62px;
+        /* Espaço entre os inputs */
+        height: 2vh;
+        border: 1px;
+        border-radius: 14px;
+        filter: drop-shadow(5px 5px 5px);
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .inpu-min,
+    .input-max {
+        width: 140px;
+        height: 74px;
+        border: 1px solid #fff;
+        border-radius: 14px;
+        background-color: rgb(123, 11, 227);
+        font-weight: 700;
+        font-size: 40px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: -15rem;
+        display: flex;
+
+    }
+
+    .sorte {
+        display: flex;
+        background-color: chartreuse;
+        justify-content: center;
+        margin: 0 auto;
+        width: 342px;
+        height: 74px;
+        border: 2.8px solid;
+        border-radius: 14px;
+        align-items: center;
+        font-weight: 800;
+        font-size: 50px;
+        margin-top: -10rem;
+        filter: drop-shadow(5px 5px 5px);
+
+    }
+
+}
+
+/* Regras de CSS para telas entre 601px e 1024px */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+    img {
+        width: 25rem;
+        display: block;
+        margin: 0 auto;
+        padding: 2rem;
+        margin-top: 100px;
+        filter: drop-shadow(5px 5px 5px);
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+
+    }
+
+    h1 {
+        display: flex;
+        color: #fff;
+        font-weight: 500;
+        justify-content: center;
+        font-size: 25px;
+        text-shadow: 2px 2px 4px black;
+        transform: translateY(450px);
+        margin-top: -8rem;
+
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
+        filter: drop-shadow(5px 5px 5px);
+    }
+
+    .inputs {
+        display: flex;
+        gap: 62px;
+        /* Espaço entre os inputs */
+        height: 2vh;
+        border: 1px;
+        border-radius: 14px;
+        filter: drop-shadow(5px 5px 5px);
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .inpu-min,
+    .input-max {
+        width: 140px;
+        height: 74px;
+        border: 1px solid #fff;
+        border-radius: 14px;
+        background-color: rgb(123, 11, 227);
+        font-weight: 700;
+        font-size: 40px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: -15rem;
+        display: flex;
+
+    }
+
+    .sorte {
+        display: flex;
+        background-color: chartreuse;
+        justify-content: center;
+        margin: 0 auto;
+        width: 342px;
+        height: 74px;
+        border: 2.8px solid;
+        border-radius: 14px;
+        align-items: center;
+        font-weight: 800;
+        font-size: 50px;
+        margin-top: -10rem;
+        filter: drop-shadow(5px 5px 5px);
+
+    }
+
+}
+
+/* Para todos os dispositivos */
+@media all and (max-width: 480px) {
+    img {
+        width: 25rem;
+        display: block;
+        margin: 0 auto;
+        padding: 2rem;
+        margin-top: 100px;
+        filter: drop-shadow(5px 5px 5px);
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+
+
+    }
+
+    h1 {
+        display: flex;
+        color: #fff;
+        font-weight: 500;
+        justify-content: center;
+        font-size: 25px;
+        text-shadow: 2px 2px 4px black;
+        transform: translateY(450px);
+        margin-top: -8rem;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
+        filter: drop-shadow(5px 5px 5px);
+    }
+
+    .inputs {
+        display: flex;
+        gap: 62px;
+        /* Espaço entre os inputs */
+        height: 2vh;
+        border: 1px;
+        border-radius: 14px;
+        filter: drop-shadow(5px 5px 5px);
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .inpu-min,
+    .input-max {
+        width: 140px;
+        height: 74px;
+        border: 1px solid #fff;
+        border-radius: 14px;
+        background-color: rgb(123, 11, 227);
+        font-weight: 700;
+        font-size: 40px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: -15rem;
+        display: flex;
+
+    }
+
+    .sorte {
+        display: flex;
+        background-color: chartreuse;
+        justify-content: center;
+        margin: 0 auto;
+        width: 342px;
+        height: 74px;
+        border: 2.8px solid;
+        border-radius: 14px;
+        align-items: center;
+        font-weight: 800;
+        font-size: 50px;
+        margin-top: -10rem;
+        filter: drop-shadow(5px 5px 5px);
+
+    }
+}
+
+/* Para telas */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    img {
+        width: 25rem;
+        display: block;
+        margin: 0 auto;
+        padding: 2rem;
+        margin-top: 100px;
+        filter: drop-shadow(5px 5px 5px);
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+
+
+    }
+
+    h1 {
+
+        display: flex;
+        color: #fff;
+        font-weight: 500;
+        justify-content: center;
+        font-size: 25px;
+        text-shadow: 2px 2px 4px black;
+        transform: translateY(450px);
+        margin-top: -8rem;
+
+    }
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
+        filter: drop-shadow(5px 5px 5px);
+    }
+
+
+    .inputs {
+        display: flex;
+        gap: 62px;
+        /* Espaço entre os inputs */
+        height: 2vh;
+        border: 1px;
+        border-radius: 14px;
+        filter: drop-shadow(5px 5px 5px);
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .inpu-min,
+    .input-max {
+        width: 140px;
+        height: 74px;
+        border: 1px solid #fff;
+        border-radius: 14px;
+        background-color: rgb(123, 11, 227);
+        font-weight: 700;
+        font-size: 40px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: -15rem;
+        display: flex;
+
+    }
+
+    .sorte {
+        display: flex;
+        background-color: chartreuse;
+        justify-content: center;
+        margin: 0 auto;
+        width: 342px;
+        height: 74px;
+        border: 2.8px solid;
+        border-radius: 14px;
+        align-items: center;
+        font-weight: 800;
+        font-size: 50px;
+        margin-top: -10rem;
+        filter: drop-shadow(5px 5px 5px);
+
+    }
+
 }
