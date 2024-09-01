@@ -117,27 +117,9 @@
 
 <p align="left">
   
-●	Ao clicar no botão “Sortear”, o site DevSorteio executa as seguintes ações, verifica se os valores mínimo e máximo do intervalo foram definidos corretamente pelo usuário, Utiliza um algoritmo de geração de números aleatórios para selecionar um número dentro do intervalo especificado, e exiber o número sorteado na tela de forma destacada, permitindo que o usuário veja o resultado imediatamente.<br>
+●	Ao clicar no botão “Sortear”, o site executa um algoritmo que gera um número aleatório dentro do intervalo selecionado (50 ou 100). O resultado do sorteio é exibido imediatamente na seção “Resultado” na parte inferior da página. Por exemplo, se o intervalo selecionado for 100, o site pode gerar um número aleatório entre 1 e 100 e mostrar algo como “Resultado: 57”.<br>
 
 </p> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">  
   
