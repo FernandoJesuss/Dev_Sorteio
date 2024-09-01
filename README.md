@@ -92,7 +92,7 @@
 <br>
 
 <h4 align="left">1.4.	Público alvo do projeto</h4>
-<p align="left">O site pode atrair diferentes grupos de pessoas, incluindo:<br>
+<p align="left">O site pode atrair diferentes grupos de pessoas, incluindo:<br><br>
 ● Organizadores de Eventos: Ideal para quem organiza eventos como festas, sorteios em feiras ou eventos corporativos, permitindo a realização de sorteios de brindes ou prêmios.
 <br><br>
 ● Professores e Educadores: Ferramenta útil para professores que desejam sortear alunos para atividades em sala de aula ou distribuir prêmios em competições escolares.<br><br>
