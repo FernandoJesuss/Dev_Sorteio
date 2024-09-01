@@ -93,7 +93,7 @@
 
 <h4 align="left">1.4.	Público alvo do projeto</h4>
 <p align="left">O site pode atrair diferentes grupos de pessoas, incluindo:<br>
-●Organizadores de Eventos: Ideal para quem organiza eventos como festas, sorteios em feiras ou eventos corporativos, permitindo a realização de sorteios de brindes ou prêmios.
+● Organizadores de Eventos: Ideal para quem organiza eventos como festas, sorteios em feiras ou eventos corporativos, permitindo a realização de sorteios de brindes ou prêmios.
 <br>
 ● Professores e Educadores: Ferramenta útil para professores que desejam sortear alunos para atividades em sala de aula ou distribuir prêmios em competições escolares.<br>
 ● Empresas e RH: Departamentos de Recursos Humanos podem utilizar o DevSorteio para sorteios internos, como a distribuição de prêmios em campanhas de incentivo.<br>
@@ -101,24 +101,47 @@
 ● Jogadores e Gamers: Comunidades de jogadores podem usar o DevSorteio para sorteios de itens ou prêmios em competições e torneios.</p> 
 <br>
 <h4 align="left">2.	Escopo do Projeto</h4>
-<p align="left">● Na página inicial, o usuário terá acesso ao logo do site, bem como aos campos para converter moeda de real para euro ou dólar. Além disso, haverá um campo que exibirá o valor digitado pelo usuário. Abaixo do botão “Converter”, será mostrado o símbolo da moeda de origem, seguido do valor digitado pelo usuário e uma seta indicando a moeda para a qual a conversão será feita, com o valor correspondente abaixo. </p>
+<p align="left"> ● Na página inicial, O usuário encontra uma Interface simples e clara, a página tem um design limpo com poucos elementos, o que facilita a navegação e o uso. O fundo verde e os botões destacados tornam os elementos principais facilmente identificáveis.<br><br>
+ ● Botões de Seleção: Os botões descrito "Entre" e "e" são grandes e claramente rotulados, permitindo que os usuários escolham rapidamente o intervalo de números para o sorteio.<br><br>
+ ● Ação Principal Destacada: O botão “Sortear” é grande e centralizado, tornando-o fácil de encontrar e usar. Isso ajuda a guiar o usuário diretamente para a ação principal do site.<br><br>
+ ● Feedback Imediato: A exibição do resultado do sorteio na parte inferior da página fornece feedback imediato ao usuário, mostrando claramente o número sorteado.
 
-<div align="center">  
-  
+</p>
 
-<img src="C:\Users\Nando\Downloads\iPhone 15.png" width="800" height="600"/>
+<div align="center" displey="inline">  
 
-
+<img src="https://github.com/FernandoJesuss/Dev_Sorteio/blob/main/img/sort2.png" width="" height=""/>
 
 </div>
 <br>
 
 <p align="left">
-●	Ao clicar no botão “Converter”, os valores serão convertidos para a moeda escolhida e exibidos abaixo. Isso facilita a visualização do resultado da conversão.</p> 
+  
+●	Ao clicar no botão “Sortear”, o site DevSorteio executa as seguintes ações, verifica se os valores mínimo e máximo do intervalo foram definidos corretamente pelo usuário, Utiliza um algoritmo de geração de números aleatórios para selecionar um número dentro do intervalo especificado, e exiber o número sorteado na tela de forma destacada, permitindo que o usuário veja o resultado imediatamente.<br>
+
+</p> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">  
   
-<img src="https://github.com/FernandoJesuss/Conversor_Moedas/blob/main/src/img/convert_smart.png" width="" height=""/>
+<img src="https://github.com/FernandoJesuss/Dev_Sorteio/blob/main/img/sort3.png" width="400" height=""/>
   
 </div>
 <br>
@@ -129,10 +152,10 @@
 
 |     Marcos do Projeto       | Data Término| Entregáveis                                 
 |           :---:             |   :---:     |   :---:                    
-| Inicio do projeto           | 09/08/2024  | 09/08/2024       
-| Escopo do site              | 09/08/2024  | 09/08/2024 
-| Wire-frame do site          | 09/08/2024  | 09/08/2024 
-| Fim do desenvolvimento site | 09/08/2024  | 09/08/2024           
+| Inicio do projeto           | 30/08/2024  | 30/08/2024       
+| Escopo do site              | 30/08/2024  | 30/08/2024 
+| Wire-frame do site          | 31/08/2024  | 31/08/2024 
+| Fim do desenvolvimento site | 31/08/2024  | 31/08/2024           
 
 <br>
 <h4 align="left">3.	Equipe do Projeto</h4>
