@@ -94,10 +94,10 @@
 <h4 align="left">1.4.	Público alvo do projeto</h4>
 <p align="left">O site pode atrair diferentes grupos de pessoas, incluindo:<br>
 ● Organizadores de Eventos: Ideal para quem organiza eventos como festas, sorteios em feiras ou eventos corporativos, permitindo a realização de sorteios de brindes ou prêmios.
-<br>
-● Professores e Educadores: Ferramenta útil para professores que desejam sortear alunos para atividades em sala de aula ou distribuir prêmios em competições escolares.<br>
-● Empresas e RH: Departamentos de Recursos Humanos podem utilizar o DevSorteio para sorteios internos, como a distribuição de prêmios em campanhas de incentivo.<br>
-● Comunidades Online: Administradores de grupos em redes sociais ou fóruns podem realizar sorteios entre os membros de forma prática e rápida.<br>
+<br><br>
+● Professores e Educadores: Ferramenta útil para professores que desejam sortear alunos para atividades em sala de aula ou distribuir prêmios em competições escolares.<br><br>
+● Empresas e RH: Departamentos de Recursos Humanos podem utilizar o DevSorteio para sorteios internos, como a distribuição de prêmios em campanhas de incentivo.<br><br>
+● Comunidades Online: Administradores de grupos em redes sociais ou fóruns podem realizar sorteios entre os membros de forma prática e rápida.<br><br>
 ● Jogadores e Gamers: Comunidades de jogadores podem usar o DevSorteio para sorteios de itens ou prêmios em competições e torneios.</p> 
 <br>
 <h4 align="left">2.	Escopo do Projeto</h4>
