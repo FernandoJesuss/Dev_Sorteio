@@ -101,8 +101,8 @@
 ● Jogadores e Gamers: Comunidades de jogadores podem usar o DevSorteio para sorteios de itens ou prêmios em competições e torneios.</p> 
 <br>
 <h4 align="left">2.	Escopo do Projeto</h4>
-<p align="left"> ● Na página inicial, O usuário encontra uma Interface simples e clara, a página tem um design limpo com poucos elementos, o que facilita a navegação e o uso. O fundo verde e os botões destacados tornam os elementos principais facilmente identificáveis.<br><br>
- ● Botões de Seleção: Os botões descrito "Entre" e "e" são grandes e claramente rotulados, permitindo que os usuários escolham rapidamente o intervalo de números para o sorteio.<br><br>
+<p align="left"> ● Na página inicial, O usuário encontra uma Interface simples e clara, a página tem um design limpo com poucos elementos, o que facilita a navegação e o uso. O fundo verde e dois campos destacados tornam os elementos principais facilmente identificáveis.<br><br>
+ ● Campos de Seleção: Os campos descrito "Entre" e "e" são grandes e claramente rotulados, permitindo que os usuários escolham rapidamente o intervalo de números para o sorteio.<br><br>
  ● Ação Principal Destacada: O botão “Sortear” é grande e centralizado, tornando-o fácil de encontrar e usar. Isso ajuda a guiar o usuário diretamente para a ação principal do site.<br><br>
  ● Feedback Imediato: A exibição do resultado do sorteio na parte inferior da página fornece feedback imediato ao usuário, mostrando claramente o número sorteado.
 
