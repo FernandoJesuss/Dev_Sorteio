@@ -328,11 +328,13 @@ button::before {
         display: block;
         margin: 0 auto;
         padding: 2rem;
-        margin-top: 100px;
+        /* margin-top: 100px; */
         filter: drop-shadow(5px 5px 5px);
     }
 
     body {
+        position: relative;
+        top: 7rem;
         padding: 0;
         margin: 0;
 
@@ -341,13 +343,14 @@ button::before {
 
     h1 {
         display: flex;
+        bottom: 26rem;
         color: #fff;
         font-weight: 500;
         justify-content: center;
         font-size: 25px;
         text-shadow: 2px 2px 4px black;
         transform: translateY(450px);
-        margin-top: -8rem;
+        /* margin-top: -8rem; */
     }
 
     .container {
